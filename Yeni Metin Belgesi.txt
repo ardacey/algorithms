@@ -1,0 +1,14 @@
+hashing
+djikstra
+kruskal
+segment tree
+bst
+red black tree
+merge sort
+quick sort
+bfs
+dfs
+knapsack
+bitmask
+bitmasking
+unbounded knapsack
